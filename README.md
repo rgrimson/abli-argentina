@@ -21,7 +21,7 @@ This GitHub repository hosts the **code and processed outputs**. The
 data not always trivially accessible) are deposited separately on Zenodo
 to keep this repository lightweight:
 
-- **Raw data archive (Zenodo)**: [doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) *(DOI pending)*
+- **Raw data archive (Zenodo)**: [doi.org/10.5281/zenodo.20451157](https://doi.org/10.5281/zenodo.20451157) **
 
 To reproduce the analysis from scratch, download the raw archive from
 Zenodo and unpack it into `data/raw/`. To reproduce **only the final
@@ -192,7 +192,7 @@ the code archive:
 
 > González Trilla G, Baldi G, Luchetti C, Pereira P & Grimson R (2026).
 > abli-argentina: reproduction code for Beyond the Map. Zenodo.
-> doi:10.5281/zenodo.XXXXXXX
+> doi:10.5281/zenodo.20451157
 
 ---
 
