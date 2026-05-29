@@ -1,0 +1,9 @@
+geopandas>=0.14
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+matplotlib-scalebar>=0.8
+pyproj>=3.6
+shapely>=2.0
+pyogrio>=0.7
+openpyxl>=3.1
