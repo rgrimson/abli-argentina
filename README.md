@@ -105,7 +105,7 @@ shapefiles. Skip this step to reproduce only the figures and tables.
 
 ```bash
 # Download from Zenodo
-wget https://zenodo.org/record/XXXXXXX/files/abli-argentina-raw.zip
+wget https://zenodo.org/records/20453049/files/abli-argentina-raw-v1.0.zip
 unzip abli-argentina-raw.zip -d data/raw/
 ```
 
