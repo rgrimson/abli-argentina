@@ -21,7 +21,7 @@ This GitHub repository hosts the **code and processed outputs**. The
 data not always trivially accessible) are deposited separately on Zenodo
 to keep this repository lightweight:
 
-- **Raw data archive (Zenodo)**: [doi.org/10.5281/zenodo.20451157](https://doi.org/10.5281/zenodo.20451157) **
+- **Raw data archive (Zenodo)**: [doi.org/10.5281/zenodo.20453049](https://doi.org/10.5281/zenodo.20453049) 
 
 To reproduce the analysis from scratch, download the raw archive from
 Zenodo and unpack it into `data/raw/`. To reproduce **only the final

@@ -58,3 +58,7 @@ data/raw/**/*.zip
 # ── Log files ─────────────────────────────────────────────────────────────────
 *.log
 output/figures/*.pdf
+
+# Zenodo upload archives
+*.zip
+
